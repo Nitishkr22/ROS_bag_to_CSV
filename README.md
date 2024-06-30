@@ -40,7 +40,6 @@ $ rosrun rosbag_to_csv rosbag_to_csv.py
 
 ## Select a single bag file or multiple bag files with the GUI
 
-![1](https://github.com/AtsushiSakai/rosbag_to_csv/wiki/1.png)
 
 ## Select topics to convert csv
 
