@@ -60,13 +60,8 @@ When the finish convert message dialog is shown,
 
 CSV files are generated successfly in `~/.ros`.
 
-![4](https://github.com/AtsushiSakai/rosbag_to_csv/blob/master/images/pic2.png)
-
 
 The CSV file name is same as (the bag file name)_(each selected topic name).csv.
 
-If You open the csv file with office software, you can see:
-
-![5](https://github.com/AtsushiSakai/rosbag_to_csv/wiki/3.png)
 
 
