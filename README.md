@@ -70,6 +70,3 @@ If You open the csv file with office software, you can see:
 ![5](https://github.com/AtsushiSakai/rosbag_to_csv/wiki/3.png)
 
 
-# License
-
-MIT
